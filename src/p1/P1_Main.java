@@ -1,5 +1,16 @@
-package p1;
+package P1
 
-public class P1_Main {
+import java.util.Scanner;
 
+public class P1_main {
+	public static void main(String[] args) {
+		Scanner s = new Scanner(System.in);
+		
+		String zeile = new String()
+				zeile = s.nextLine();
+		
+		System.out.println();
+		
+		s.close();
+	}
 }
